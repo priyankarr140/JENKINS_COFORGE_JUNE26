@@ -1,0 +1,5 @@
+# Created at 2026-01-20T14:18:20.084
+Boot Manifest-JAR contains absolute paths in classpath 'D:\eclipse-workspace2\coforge_jenkins_jan26\target\test-classes'
+Hint: <argLine>-Djdk.net.URLClassPath.disableClassPathURLCheck=true</argLine>
+'other' has different root
+
